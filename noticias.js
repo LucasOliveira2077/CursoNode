@@ -1,6 +1,6 @@
 var http = require('http');//a variavel http recebe http e o require importa a biblioteca http na variavel
 
-var server = http.createServer( function (req, res){ // variavel server escuta no servidor criado
+var server = http.createServer( function (req, res){ // variavel server escuta no servidor criado/create server método que cria o servidor 
 
     var categoria = req.url;//variavel categoria recebe a url da requisição
     
