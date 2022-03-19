@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LucasOliveira2077/CursoNode/issues"
   },
-  "homepage": "https://github.com/LucasOliveira2077/CursoNode#readme"
+  "homepage": "https://github.com/LucasOliveira2077/CursoNode#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
