@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/LucasOliveira2077/CursoNode#readme",
   "dependencies": {
+    "consign": "^0.1.6",
     "ejs": "^2.5.6",
     "express": "^4.15.3",
     "mysql": "^2.13.0"
