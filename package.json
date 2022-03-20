@@ -6,11 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  
   "jshintConfig": {
     "esversion": 6
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LucasOliveira2077/CursoNode.git"
@@ -22,6 +20,8 @@
   },
   "homepage": "https://github.com/LucasOliveira2077/CursoNode#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "mysql": "^2.13.0"
   }
 }
