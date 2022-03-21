@@ -1,4 +1,4 @@
-//criando servidor que responde a requisições com express e ejs
+﻿//criando servidor que responde a requisições com express e ejs
 
 let app = require('./config/server');
 //estou importando as config do server.js pra variavel 'app'
